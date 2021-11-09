@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Todo List</string>
+    <string name="generate_sample_label">Generate Sample</string>
+    <string name="delete_list_label">Delete List</string>
+    <string name="all_deleted">All items deleted</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="add_item_label">Add Item</string>
+    <string name="title_activity_editor">Edit Item</string>
+    <string name="delete_item_label">Delete Item</string>
+    <string name="new_item_title">New Todo Item</string>
+    <string name="todo_item_hint">Todo Item</string>
+</resources>
